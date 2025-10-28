@@ -11,12 +11,14 @@
             "id": "70d6abee975b9fb9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Homework2/Pictures/Pasted image 20251025193426.png"
+                "file": "Homework2/HW2/Homework 22.10.25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251025193426"
+              "icon": "lucide-file",
+              "title": "Homework 22.10.25"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework2/Pictures/Pasted image 20251025193426.png",
+                "file": "Homework2/HW2/Homework 22.10.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251025193426"
+              "title": "Backlinks for Homework 22.10.25"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework2/Pictures/Pasted image 20251025193426.png",
+                "file": "Homework2/HW2/Homework 22.10.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251025193426"
+              "title": "Outgoing links from Homework 22.10.25"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework2/Pictures/Pasted image 20251025193426.png",
+                "file": "Homework2/HW2/Homework 22.10.25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251025193426"
+              "title": "Outline of Homework 22.10.25"
             }
           }
         ]
@@ -169,6 +171,7 @@
   },
   "active": "70d6abee975b9fb9",
   "lastOpenFiles": [
+    "Homework2/Pictures/Pasted image 20251025193426.png",
     "Homework2/HW2/image/ultrasonic-sensor-diagram.jpg",
     "Homework2/HW2/image/tilt_sensor.jpeg",
     "Homework2/HW2/image/tilt-sensor-module-pinout-1.jpg",
@@ -179,7 +182,6 @@
     "Homework2/HW2/image/relay.jpg",
     "Homework2/HW2/image/potentiometer.jpeg",
     "Homework2/HW2/image/plush_button.jpg",
-    "Homework2/HW2/image/lm35.jpeg",
     "Homework2/HW2/image/desktop.ini",
     "Homework2/HW2/image",
     "Homework2/HW2/Homework 22.10.25.pdf",
