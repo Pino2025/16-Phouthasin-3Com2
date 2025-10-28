@@ -11,10 +11,12 @@
             "id": "70d6abee975b9fb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Homework2/Pictures/Pasted image 20251025193426.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251025193426"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Homework2/Pictures/Pasted image 20251025193426.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pasted image 20251025193426"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Homework2/Pictures/Pasted image 20251025193426.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Pasted image 20251025193426"
             }
           },
           {
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Homework2/Pictures/Pasted image 20251025193426.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20251025193426"
             }
           }
         ]
@@ -164,6 +169,30 @@
   },
   "active": "70d6abee975b9fb9",
   "lastOpenFiles": [
+    "Homework2/HW2/image/ultrasonic-sensor-diagram.jpg",
+    "Homework2/HW2/image/tilt_sensor.jpeg",
+    "Homework2/HW2/image/tilt-sensor-module-pinout-1.jpg",
+    "Homework2/HW2/image/soundsensor-pinoutput-1.jpg",
+    "Homework2/HW2/image/rfid_tah.jpg",
+    "Homework2/HW2/image/resistor_schematic.png",
+    "Homework2/HW2/image/resistor.jpg",
+    "Homework2/HW2/image/relay.jpg",
+    "Homework2/HW2/image/potentiometer.jpeg",
+    "Homework2/HW2/image/plush_button.jpg",
+    "Homework2/HW2/image/lm35.jpeg",
+    "Homework2/HW2/image/desktop.ini",
+    "Homework2/HW2/image",
+    "Homework2/HW2/Homework 22.10.25.pdf",
+    "Homework2/HW2/Homework_MCU_MPU_22_10_25/image/desktop.ini",
+    "Homework2/HW2/Homework_MCU_MPU_22_10_25/image",
+    "Homework2/HW2/Homework_MCU_MPU_22_10_25/Homework 22.10.25.md",
+    "Homework2/HW2/Homework_MCU_MPU_22_10_25/Homework 22.10.25.pdf",
+    "Homework2/HW2/Homework_MCU_MPU_22_10_25",
+    "Homework2/Homework_MCU_MPU_22_10_25/image/desktop.ini",
+    "Homework2/Homework_MCU_MPU_22_10_25/image",
+    "Homework2/Homework_MCU_MPU_22_10_25/Homework 22.10.25.pdf",
+    "Homework2/Homework_MCU_MPU_22_10_25/Homework 22.10.25.md",
+    "Homework_MCU_MPU_22_10_25/Homework 22.10.25.md",
     "Homework2/HW2/Arduino-Kit.md",
     "Homework2/HW2/Homework 22.10.25.md"
   ]
