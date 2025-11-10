@@ -11,14 +11,10 @@
             "id": "70d6abee975b9fb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework2/HW2/Homework 22.10.25.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Homework 22.10.25"
+              "title": "New tab"
             }
           }
         ]
@@ -169,34 +165,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "b9cbc79055919feb",
+  "active": "70d6abee975b9fb9",
   "lastOpenFiles": [
-    "Homework2/HW2/image/ultrasonic-sensor-diagram.jpg",
-    "Homework2/HW2/image/tilt_sensor.jpeg",
-    "Homework2/HW2/image/tilt-sensor-module-pinout-1.jpg",
-    "Homework2/HW2/image/soundsensor-pinoutput-1.jpg",
-    "Homework2/HW2/image/rfid_tah.jpg",
-    "Homework2/HW2/image/resistor_schematic.png",
-    "Homework2/HW2/image/resistor.jpg",
-    "Homework2/HW2/image/relay.jpg",
-    "Homework2/HW2/image/potentiometer.jpeg",
-    "Homework2/HW2/image/plush_button.jpg",
-    "Homework2/HW2/image/lm35.jpeg",
-    "Homework2/HW2/image/desktop.ini",
-    "Homework2/HW2/image",
+    "Homework_MCU_MPU_22_10_25/Homework 22.10.25.pdf",
+    "Homework_MCU_MPU_22_10_25/image/ultrasonic-sensor-diagram.jpg",
+    "Homework_MCU_MPU_22_10_25/image/tilt_sensor.jpeg",
+    "Homework_MCU_MPU_22_10_25/image/tilt-sensor-module-pinout-1.jpg",
+    "Homework_MCU_MPU_22_10_25/image/soundsensor-pinoutput-1.jpg",
+    "Homework_MCU_MPU_22_10_25/image/rfid_tah.jpg",
+    "Homework_MCU_MPU_22_10_25/image/resistor_schematic.png",
+    "Homework_MCU_MPU_22_10_25/image/resistor.jpg",
+    "Homework_MCU_MPU_22_10_25/image/relay.jpg",
+    "Homework_MCU_MPU_22_10_25/image/potentiometer.jpeg",
+    "Homework_MCU_MPU_22_10_25/image/plush_button.jpg",
+    "Homework_MCU_MPU_22_10_25/image/desktop.ini",
+    "Homework_MCU_MPU_22_10_25/image",
+    "Homework_MCU_MPU_22_10_25/Homework 22.10.25.md",
+    "Homework_MCU_MPU_22_10_25",
     "Homework2/HW2/Homework 22.10.25.md",
     "Homework1/Homework.md",
+    "Homework1",
+    "Homework2/HW2/image/desktop.ini",
+    "Homework2/HW2/image",
     "Homework2/HW2/Homework 22.10.25.pdf",
     "Homework2/HW2/Homework_MCU_MPU_22_10_25/image/desktop.ini",
     "Homework2/HW2/Homework_MCU_MPU_22_10_25/image",
     "Homework2/HW2/Homework_MCU_MPU_22_10_25/Homework 22.10.25.md",
     "Homework2/HW2/Homework_MCU_MPU_22_10_25/Homework 22.10.25.pdf",
-    "Homework2/HW2/Homework_MCU_MPU_22_10_25",
-    "Homework2/Homework_MCU_MPU_22_10_25/image/desktop.ini",
-    "Homework2/Homework_MCU_MPU_22_10_25/image",
-    "Homework2/Homework_MCU_MPU_22_10_25/Homework 22.10.25.pdf",
     "Homework2/Homework_MCU_MPU_22_10_25/Homework 22.10.25.md",
-    "Homework_MCU_MPU_22_10_25/Homework 22.10.25.md",
     "Homework2/HW2/Arduino-Kit.md"
   ]
 }
